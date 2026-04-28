@@ -3,7 +3,7 @@ package modelo;
 import java.io.Serializable;
 
 /**
- * Representa un libro en la biblioteca.
+ * 
  * 
  * @Author RaulSanchez
  */
